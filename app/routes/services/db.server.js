@@ -4,6 +4,8 @@
     Maybe make it so this doesn't connect
     on each client page load.
 
+    TODO: Change this code up
+
 */
 
 import mongoose from 'mongoose'
